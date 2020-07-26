@@ -1,0 +1,20 @@
+.main_container{
+  text-align: center;
+  display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+
+.x_icon{
+  width: 50px;
+  height: 50px;
+}
+
+.btns_container{
+   display: flex;
+align-items: center;
+flex-direction: row;
+justify-content: center;
+}
+
